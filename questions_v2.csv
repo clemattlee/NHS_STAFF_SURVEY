@@ -1,0 +1,146 @@
+﻿target_variable,Type,main_score,sub_score,full_score_title,question_details
+E_1,Theme,Staff engagement,Motivation,Staff engagement - Motivation,
+E_2,Theme,Staff engagement,Involvement,Staff engagement - Involvement,
+E_3,Theme,Staff engagement,Advocacy,Staff engagement - Advocacy,
+M_1,Theme,Morale,Thinking about leaving,Morale - Thinking about leaving,
+M_2,Theme,Morale,Work pressure,Morale - Work pressure,
+M_3,Theme,Morale,Stressors,Morale - Stressors,
+PP1,People's Promise,We are compassionate and inclusive,,We are compassionate and inclusive,
+PP1_1,People's Promise,We are compassionate and inclusive,Compassionate culture,We are compassionate and inclusive - Compassionate culture,
+PP1_2,People's Promise,We are compassionate and inclusive,Compassionate leadership,We are compassionate and inclusive - Compassionate leadership,
+PP1_3,People's Promise,We are compassionate and inclusive,Diversity,We are compassionate and inclusive - Diversity,
+PP1_4,People's Promise,We are compassionate and inclusive,Inclusion,We are compassionate and inclusive - Inclusion,
+PP2,People's Promise,We are recognised and rewarded,,We are recognised and rewarded,
+PP3,People's Promise,We each have a voice that counts,,We each have a voice that counts,
+PP3_1,People's Promise,We each have a voice that counts,Autonomy and control,We each have a voice that counts - Autonomy and control,
+PP3_2,People's Promise,We each have a voice that counts,Raising concerns,We each have a voice that counts - Raising concerns,
+PP4,People's Promise,We are safe and healthy,,We are safe and healthy,
+PP4_1,People's Promise,We are safe and healthy,Health and safety climate,We are safe and healthy - Health and safety climate,
+PP4_2,People's Promise,We are safe and healthy,Burnout,We are safe and healthy - Burnout,
+PP4_3,People's Promise,We are safe and healthy,Negative experiences,We are safe and healthy - Negative experiences,
+PP5,People's Promise,We are always learning,,We are always learning,
+PP5_1,People's Promise,We are always learning,Development,We are always learning - Development,
+PP5_2,People's Promise,We are always learning,Appraisals,We are always learning - Appraisals,
+PP6,People's Promise,We work flexibly,,We work flexibly,
+PP6_1,People's Promise,We work flexibly,Support for work-life balance,We work flexibly - Support for work-life balance,
+PP6_2,People's Promise,We work flexibly,Flexible working,We work flexibly - Flexible working,
+PP7,People's Promise,We are a team,,We are a team,
+PP7_1,People's Promise,We are a team,Team working,We are a team - Team working,
+PP7_2,People's Promise,We are a team,Line management,We are a team - Line management,
+q10b,,,,,"On average, how many additional PAID hours do you work per week for this organisation, over and above your contracted hours?"
+q10c,,,,,"On average, how many additional UNPAID hours do you work per week for this organisation, over and above your contracted hours?"
+q11a,,,,,My organisation takes positive action on health and well-being.
+q11b,,,,,In the last 12 months have you experienced musculoskeletal problems (MSK) as a result of
+q11c,,,,,During the last 12 months have you felt unwell as a result of work related stress?
+q11d,,,,,In the last three months have you ever come to work despite not feeling well enough to
+q11e,,,,,Have you felt pressure from your manager to come to work?
+q12a,,,,,"How often, if at all, do you find your work emotionally exhausting?"
+q12b,,,,,"How often, if at all, do you feel burnt out because of your work?"
+q12c,,,,,"How often, if at all, does your work frustrate you?"
+q12d,,,,,"How often, if at all, are you exhausted at the thought of another day/shift at work?"
+q12e,,,,,"How often, if at all, do you feel worn out at the end of your working day/shift?"
+q12f,,,,,"How often, if at all, do you feel that every working hour is tiring for you?"
+q12g,,,,,"How often, if at all, do you not have enough energy for family and friends during leisure time?"
+q13a,,,,,In the last 12 months how many times have you personally experienced physical violence at
+q13b,,,,,In the last 12 months how many times have you personally experienced physical violence at
+q13c,,,,,In the last 12 months how many times have you personally experienced physical violence at
+q13d,,,,,"The last time you experienced physical violence at work, did you or a colleague report it?"
+q14a,,,,,"In the last 12 months how many times have you personally experienced harassment, bullying"
+q14b,,,,,"In the last 12 months how many times have you personally experienced harassment, bullying"
+q14c,,,,,"In the last 12 months how many times have you personally experienced harassment, bullying"
+q14d,,,,,"The last time you experienced harassment, bullying or abuse at work, did you or a colleague"
+q15,,,,,"Does your organisation act fairly with regard to career progression / promotion, regardless of"
+q16a,,,,,In the last 12 months have you personally experienced discrimination at work from patients /
+q16b,,,,,In the last 12 months have you personally experienced discrimination at work from manager /
+q16c_1,,,,,On what grounds have you experienced discrimination? (Ethnic background)
+q16c_2,,,,,On what grounds have you experienced discrimination? (Gender)
+q16c_3,,,,,On what grounds have you experienced discrimination? (Religion)
+q16c_4,,,,,On what grounds have you experienced discrimination? (Sexual orientation)
+q16c_5,,,,,On what grounds have you experienced discrimination? (Disability)
+q16c_6,,,,,On what grounds have you experienced discrimination? (Age)
+q16c_7,,,,,On what grounds have you experienced discrimination? (Other)
+q17a,,,,,"In the last 12 months, how many times have you been the target of unwanted behaviour of a sexual nature in the workplace? This may include offensive or inappropriate sexualised conversation (including jokes), touching or assault… from patients / service users, their relatives or other members of the public"
+q17b,,,,,"In the last 12 months, how many times have you been the target of unwanted behaviour of a sexual nature in the workplace? This may include offensive or inappropriate sexualised conversation (including jokes), touching or assault… from staff / colleagues"
+q18,,,,,"In the last month have you seen any errors, near misses, or incidents that could have hurt staff and/or patients/service users?"
+q19a,,,,," My organisation treats staff who are involved in an error, near miss or incident fairly. "
+q19b,,,,,"My organisation encourages us to report errors, near misses or incidents."
+q19c,,,,," When errors, near misses or incidents are reported, my organisation takes action to ensure that they do not happen again."
+q19d,,,,," We are given feedback about changes made in response to reported errors, near misses and incidents."
+q20a,,,,,I would feel secure raising concerns about unsafe clinical practice.
+q20b,,,,,I am confident that my organisation would address my concern.
+q21,,,,,"I think that my organisation respects individual differences (e.g. cultures, working styles,"
+q22,,,,,I can eat nutritious and affordable food while I am working.
+q23a,,,,,"In the last 12 months, have you had an appraisal, annual review, development review, or"
+q23b,,,,,It helped me to improve how I do my job.
+q23c,,,,,It helped me agree clear objectives for my work.
+q23d,,,,,It left me feeling that my work is valued by my organisation.
+q24a,,,,,This organisation offers me challenging work.
+q24b,,,,,There are opportunities for me to develop my career in this organisation.
+q24c,,,,,I have opportunities to improve my knowledge and skills.
+q24d,,,,,I feel supported to develop my potential.
+q24e,,,,,I am able to access the right learning and development opportunities when I need to.
+q25a,,,,,Care of patients / service users is my organisation's top priority.
+q25b,,,,,My organisation acts on concerns raised by patients / service users.
+q25c,,,,,I would recommend my organisation as a place to work.
+q25d,,,,,If a friend or relative needed treatment I would be happy with the standard of care provided by
+q25e,,,,,I feel safe to speak up about anything that concerns me in this organisation.
+q25f,,,,,If I spoke up about something that concerned me I am confident my
+q26a,,,,,I often think about leaving this organisation.
+q26b,,,,,I will probably look for a job at a new organisation in the next 12 months.
+q26c,,,,,"As soon as I can find another job, I will leave this organisation."
+q26d_1,,,,,"If you are considering leaving your current job, what would be your most likely destination? (I am not considering leaving my current job)"
+q26d_2,,,,,"If you are considering leaving your current job, what would be your most likely destination? (I would want to move to another job within this organisation)"
+q26d_3,,,,,"If you are considering leaving your current job, what would be your most likely destination? (I would want to move to a job in a different NHS Trust/organisation)"
+q26d_4,,,,,"If you are considering leaving your current job, what would be your most likely destination? (I would want to move to a job in healthcare, but outside the NHS)"
+q26d_5,,,,,"If you are considering leaving your current job, what would be your most likely destination? (I would want to move to a job outside healthcare)"
+q26d_6,,,,,"If you are considering leaving your current job, what would be your most likely destination? (I would retire or take a career break)"
+q26d_9,,,,,"If you are considering leaving your current job, what would be your most likely destination? (I am not considering leaving my job)"
+q2a,,,,,I look forward to going to work.
+q2b,,,,,I am enthusiastic about my job.
+q2c,,,,,Time passes quickly when I am working.
+q31a,,,,,Do you have any physical or mental health conditions or illnesses lasting or expected to last for 12 months or more?
+q31b,,,,,Has your employer made reasonable adjustment(s) to enable you to carry out your work?
+q3a,,,,,I always know what my work responsibilities are.
+q3b,,,,,I am trusted to do my job.
+q3c,,,,,There are frequent opportunities for me to show initiative in my role.
+q3d,,,,,I am able to make suggestions to improve the work of my team / department.
+q3e,,,,,I am involved in deciding on changes introduced that affect my work area / team / department.
+q3f,,,,,I am able to make improvements happen in my area of work.
+q3g,,,,,I am able to meet all the conflicting demands on my time at work.
+q3h,,,,,"I have adequate materials, supplies and equipment to do my work."
+q3i,,,,,There are enough staff at this organisation for me to do my job properly.
+q4a,,,,,How satisfied are you with each of the following aspects of your job? The recognition I get for good work.
+q4b,,,,,How satisfied are you with each of the following aspects of your job? The extent to which my organisation values my work.
+q4c,,,,,How satisfied are you with each of the following aspects of your job? My level of pay.
+q4d,,,,,How satisfied are you with each of the following aspects of your job? The opportunities for flexible working patterns.
+q5a,,,,,I have unrealistic time pressures.
+q5b,,,,,I have a choice in deciding how to do my work.
+q5c,,,,,Relationships at work are strained.
+q6a,,,,,I feel that my role makes a difference to patients / service users.
+q6b,,,,,My organisation is committed to helping me balance my work and home life.
+q6c,,,,,I achieve a good balance between my work life and my home life.
+q6d,,,,,I can approach my immediate manager to talk openly about flexible working.
+q7a,,,,,The team I work in has a set of shared objectives.
+q7b,,,,,The team I work in often meets to discuss the team’s effectiveness.
+q7c,,,,,I receive the respect I deserve form my colleagues at work.
+q7d,,,,,Team members understand each other’s roles.
+q7e,,,,,I enjoy working with the colleagues in my team.
+q7f,,,,,My team has enough freedom in how to do its work.
+q7g,,,,,In my team disagreements are dealt with constructively.
+q7h,,,,,I feel valued by my team.
+q7i,,,,,I feel a strong personal attachment to my team.
+q8a,,,,,Teams within this organisation work well together to achieve their objectives.
+q8b,,,,,The people I work with are understanding and kind to one another.
+q8c,,,,,The people I work with are polite and treat each other with respect.
+q8d,,,,,The people I work with show appreciation to one another.
+q9a,,,,,My immediate manager encourages me at work.
+q9b,,,,,My immediate manager gives me clear feedback on my work.
+q9c,,,,,My immediate manager asks for my opinion before making decisions that affect my work.
+q9d,,,,,My immediate manager takes a positive interest in my health and well-being.
+q9e,,,,,My immediate manager values my work.
+q9f,,,,,My immediate manager works together with me to come to an understanding of problems.
+q9g,,,,,My immediate manager is interested in listening to me when I describe challenges I face.
+q9h,,,,,My immediate manager cares about my concerns.
+q9i,,,,,My immediate manager takes effective action to help me with any problems I face.
+theme_engagement,Theme,Engagement,,Engagement,
+theme_morale,Theme,Morale,,Morale,
